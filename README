@@ -54,3 +54,8 @@ Dependencies
 pip install -r requirements.txt
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
+
+SCREENSHORT
+![Screenshot (5)](https://github.com/user-attachments/assets/6c87ee21-785e-4861-803d-5228c9d7da5a)
+
+
